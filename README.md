@@ -1,6 +1,12 @@
-###LoopViewPager
+##LoopViewPager
 
-####License
+LoopViewPager是实现ViewPager"轮播"效果。关于内部原理的介绍可以[戳这里](http://nodlee.com/2016/01/10/android-loop-viewpager/)
+
+###效果预览
+
+![LoopViewPager](http://7xjk0e.com1.z0.glb.clouddn.com/loopviewpager.gif)
+
+###License
 
 ```
 The MIT License (MIT)
